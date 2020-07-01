@@ -2,7 +2,7 @@
 
 To set up the website, you can use something as simple as Windows’ Notepad. Though, a simple compiler that allows for color-coding can make things a little easier. All the adjustments that you need to make can be found near the top of the file. In this case, the entire section that has a darker background color.
 
-**Element Animation Timing**
+**Element Animation Timing**  
 The first section of adjustments will determine the look and feel of how the images are presented and displayed. Feel free to play around with the times that suit your needs best.
 
 **Title and Name**

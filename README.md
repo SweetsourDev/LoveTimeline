@@ -5,20 +5,19 @@ To set up the website, you can use something as simple as Windows’ Notepad. Th
 **Element Animation Timing**  
 The first section of adjustments will determine the look and feel of how the images are presented and displayed. Feel free to play around with the times that suit your needs best.
 
-**Title and Name**
+**Title and Name**  
 Next, you’ll want to give your site a title, so it reads what you want your S/O to see in the browser tab. Get creative and use emojis. For example, this will display a heart &#10084;
 
 Don’t forget to add your S/O’s name!
 
-**Images Details**
+**Images Details**  
 Here, you’ll need to give the site the details of your images. You just need to provide the image file’s name (including file extension), the date of the memory, and a brief description of the memory. Place any images you want in the “images/memories” folder. Replace the existing “bg.jpg” for your own background.
 
-Example:
-   File Name         Date                Description
+Example:  
 [“example-1.jpg”,”May 27, 2019”,”The first day we began talking!”],
 
-**Final Words**
+**Final Words**  
 Use small sentences to create a dramatic outro before the final image!
 
-**Music**
+**Music**  
 You can add music by adding a music file to the “audio” folder and renaming it “bg_music.mp3”
